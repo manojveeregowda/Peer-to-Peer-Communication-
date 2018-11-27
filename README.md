@@ -1,0 +1,2 @@
+# Peer-to-Peer-Communication-
+Using 2-wire RS-485 along with Cortex M4F TIVA to send the packet using binomial exponential back off algorithm until it receives an acknowledgment from the peer. The packet was designed in an optimum way to prevent collision. Implemented in industry to control motors. A huge set of commands which include acquiring the data, displaying on LCD etc. were implemented. Also supported unsolicited message back to the controller in response to changes in an input device status.
